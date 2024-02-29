@@ -25,7 +25,7 @@ Follow the steps below to deploy the Yelp application to the cloud using AWS Amp
 
 1. **Clone Repository:**
    ```bash
-   git clone https://github.com/Dev0psKing/your-yelp-repo.git
+   git clone https://github.com/your-username/your-yelp-repo.git
    cd your-yelp-repo
    ```
 
@@ -56,7 +56,7 @@ Follow the steps below to deploy the Yelp application to the cloud using AWS Amp
    Deploy the changes to the cloud.
 
 7. **Access Deployed Application:**
-   After successful deployment, the hosted URL will be available in `my_yelp_url.txt`.
+   After successful deployment, the hosted URL will be available in `my_yelp_url.txt`. Click [here](https://master.d3md88s9j9gquw.amplifyapp.com) to view the application.
 
 8. **View Application:**
    Open the deployed application in your web browser and explore its features.
@@ -75,3 +75,8 @@ Follow the steps below to deploy the Yelp application to the cloud using AWS Amp
 
 ---
 
+**Note:** This README provides a comprehensive guide to deploying the Yelp application using AWS Amplify. Follow the steps carefully, and feel free to customize the instructions based on your specific deployment needs.
+
+**Deployment Links:**
+- [AWS Amplify Deployment](https://master.d3md88s9j9gquw.amplifyapp.com)
+- [Netlify Deployment](https://uwaboryelp-app.netlify.app/)
