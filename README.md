@@ -4,6 +4,10 @@
 
 This repository contains the source code for the Yelp application, a ReactJS-based web application that leverages GraphQL. The task is to deploy the application to the cloud using AWS Amplify, with a focus on authentication. The provided instructions include information about Yelp and specify the use of AWS technologies such as Amplify and Lambda.
 
+**Deployment Links:**
+- [AWS Amplify Deployment](https://master.d3md88s9j9gquw.amplifyapp.com)
+- [Netlify Deployment](https://uwaboryelp-app.netlify.app/)
+
 ## Project Structure
 
 - **src**: Contains the source code for the ReactJS application.
@@ -75,8 +79,4 @@ Follow the steps below to deploy the Yelp application to the cloud using AWS Amp
 
 ---
 
-**Note:** This README provides a comprehensive guide to deploying the Yelp application using AWS Amplify. Follow the steps carefully, and feel free to customize the instructions based on your specific deployment needs.
 
-**Deployment Links:**
-- [AWS Amplify Deployment](https://master.d3md88s9j9gquw.amplifyapp.com)
-- [Netlify Deployment](https://uwaboryelp-app.netlify.app/)
