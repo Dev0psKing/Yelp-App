@@ -25,7 +25,7 @@ Follow the steps below to deploy the Yelp application to the cloud using AWS Amp
 
 1. **Clone Repository:**
    ```bash
-   git clone https://github.com/your-username/your-yelp-repo.git
+   git clone https://github.com/Dev0psKing/your-yelp-repo.git
    cd your-yelp-repo
    ```
 
